@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "8a22d379-9467-4163-bff3-e992f0908490",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "46932780",
+		"_collection_link": "https://avinash-4723061.postman.co/workspace/d4f92eab-4f3d-4d47-8c2e-3d6482a16b1c/collection/46932780-8a22d379-9467-4163-bff3-e992f0908490?action=share&source=collection_link&creator=46932780"
+	},
+	"item": [
+		{
+			"name": "http://127.0.0.1:8000/api/wheelspecs/",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:8000/api/wheelspecs/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"wheelspecs",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
